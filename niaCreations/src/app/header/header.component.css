@@ -1,0 +1,14 @@
+nav{
+    background-color:antiquewhite;
+    color: #000;
+}
+.navbar-brand{
+    font-size: x-large;
+    color:red;
+    text-shadow: 2px 2px #000;
+}
+p.navbar-text{
+    color:red;
+    font-style: italic;
+    font-size:small;
+}
